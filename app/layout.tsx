@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   title: 'SOLOD - Modern hero renewed',
   description: 'Experience the rebirth of a modern hero in the digital age.',
   icons: {
-    icon: '/logo.png',
-    apple: '/logo.png',
+    icon: '/mogcoin/tab_icon.png',
+    apple: '/mogcoin/tab_icon.png',
   },
 };
 
